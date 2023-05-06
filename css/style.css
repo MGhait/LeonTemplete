@@ -161,7 +161,7 @@ body {
 
 /* Start Landing */
 .landing {
-    background-image: url(/images/mountain1.jpg);
+    background-image: url(https://mghait.github.io/LeonTemplete/images/mountain1.jpg);
     background-size: cover;
     height: calc(100vh - 66px );
     position: relative;
